@@ -1,4 +1,4 @@
-# Delayed-flights-predicton
+# Delayed-flights-prediction
 The project was developed as part of the Digital Transformation Management course at the University of Bologna.
 
 It aims to predict the occurrence of arrival delays of at least 15 minutes relative to the scheduled time, after a flight’s departure.
